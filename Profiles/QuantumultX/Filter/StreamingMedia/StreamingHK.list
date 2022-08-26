@@ -1,0 +1,59 @@
+# > Crunchyroll
+USER-AGENT,Crunchyroll*
+DOMAIN-SUFFIX,crunchyroll.com
+DOMAIN-SUFFIX,vrv.co
+
+# > HBO Max
+USER-AGENT,HBOMAX*
+DOMAIN-SUFFIX,hbo.com
+// DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,hbonow.com
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbomaxcdn.com
+
+# > Hulu
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,hulu.tv
+DOMAIN-SUFFIX,huluim.com
+DOMAIN-SUFFIX,hulustream.com
+DOMAIN,cws-hulu.conviva.com
+// DOMAIN,assetshuluimcom-a.akamaihd.net
+
+# > PBS
+USER-AGENT,PBS*
+DOMAIN-SUFFIX,pbs.org
+
+# > Peacock
+USER-AGENT,peacock*
+DOMAIN-SUFFIX,peacocktv.com
+
+# > Roku
+DOMAIN-SUFFIX,roku.com
+DOMAIN-SUFFIX,rokutime.com
+
+# > Star+
+// 此条分流只是让 Star+ 串流时走 US 节点，需搭配 Star+ 相关分流使用
+DOMAIN-SUFFIX,media.starott.com
+
+# FoxNow
+USER-AGENT,FOX%20NOW*
+DOMAIN-SUFFIX,fox.com
+DOMAIN-SUFFIX,foxdcg.com
+DOMAIN-SUFFIX,theplatform.com
+DOMAIN-SUFFIX,uplynk.com
+
+# FoxPlus
+USER-AGENT,FOXPlus*
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,foxplus.com
+
+# > shudder
+DOMAIN-SUFFIX,shudder.com,shudder
+DOMAIN-SUFFIX,amcsvod.io,shudder
+DOMAIN,boltshudder1-a.akamaihd.net,shudder
+
+# > sundancenow
+DOMAIN-SUFFIX,sundancetv.com,sundancenow
+DOMAIN-SUFFIX,sundancenow.com,sundancenow
+DOMAIN,boltsundance1-a.akamaihd.net,sundancenow
+DOMAIN-SUFFIX,theplatform.com
