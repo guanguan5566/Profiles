@@ -1,0 +1,5 @@
+# > encoreTVB
+USER-AGENT,encoreTVB*, Hong Kong
+DOMAIN-SUFFIX,encoretvb.com, Hong Kong
+DOMAIN,edge.api.brightcove.com, Hong Kong
+DOMAIN,bcbolt446c5271-a.akamaihd.net, Hong Kong
