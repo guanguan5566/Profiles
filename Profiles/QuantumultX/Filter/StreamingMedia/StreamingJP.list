@@ -4,6 +4,10 @@ DOMAIN-SUFFIX,abema.io,StreamingJP.list
 DOMAIN-SUFFIX,abema.tv,StreamingJP.list
 DOMAIN-SUFFIX,ameba.jp,StreamingJP.list
 DOMAIN-SUFFIX,hayabusa.io,StreamingJP.list
+DOMAIN,abematv.akamaized.net
+DOMAIN,ds-vod-abematv.akamaized.net
+DOMAIN,linear-abematv.akamaized.net
+DOMAIN,ds-linear-abematv.akamaized.net
 DOMAIN-KEYWORD,abematv.akamaized.net,StreamingJP.list
 
 # > DMM
