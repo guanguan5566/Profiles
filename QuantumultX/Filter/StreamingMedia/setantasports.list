@@ -21,3 +21,7 @@ DOMAIN,ux1kpaebv0.execute-api.eu-west-1.amazonaws.com
 DOMAIN,1ok961aaca.execute-api.eu-west-1.amazonaws.com
 PROCESS-NAME,com.setanta.app
 USER-AGENT,setantasports*
+
+DOMAIN-SUFFIX,ssportplus.com,SSPORTPLUS
+DOMAIN-KEYWORD,ssportplus,SSPORTPLUS
+DOMAIN-KEYWORD,videobulut,SSPORTPLUS
