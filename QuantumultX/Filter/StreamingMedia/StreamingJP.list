@@ -31,6 +31,28 @@ USER-AGENT,TVer-Release*,StreamingJP.list
 DOMAIN-SUFFIX,tver.jp,StreamingJP.list
 DOMAIN,edge.api.brightcove.com,StreamingJP.list
 
+
+#TVer
+##DOMAIN-KEYWORD,vod-cdn.tver.jp
+##DOMAIN-KEYWORD,live-cdn.tver.jp
+##
+DOMAIN-SUFFIX,tver.jp
+DOMAIN-SUFFIX,interactive-circle.jp
+DOMAIN-SUFFIX,brightcove.com
+DOMAIN-SUFFIX,prod.boltdns.net
+##
+DOMAIN-SUFFIX,reproio.com
+DOMAIN-SUFFIX,streaks.jp
+DOMAIN-SUFFIX,socdm.com
+
+##TVer要补充这几个规则
+
+DOMAIN-SUFFIX,reproio.com
+DOMAIN-SUFFIX,streaks.jp
+DOMAIN-SUFFIX,socdm.com
+
+##前面两条视频流量有需要可以分流出去, 我这能直连
+
 # > Paravi
 USER-AGENT,Paravi*,Paravi,StreamingJP.list
 DOMAIN-SUFFIX,paravi.jp,Paravi,StreamingJP.list
