@@ -9,3 +9,8 @@ DOMAIN,bcbolt446c5271-a.akamaihd.net, Hong Kong
 DOMAIN-SUFFIX,dice-live-eu.akamaized.net
 DOMAIN-SUFFIX,dve-streams.akamaized.net
 DOMAIN-SUFFIX,dice-live-eu.akamaized.net
+
+# > myTV SUPER
+USER-AGENT,mytv*
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
