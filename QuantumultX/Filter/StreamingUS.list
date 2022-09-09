@@ -30,9 +30,9 @@ DOMAIN-SUFFIX,theplatform.com
 DOMAIN-SUFFIX,uplynk.com
 
 # FoxPlus
-USER-AGENT,FOXPlus*
-DOMAIN-SUFFIX,akamaized.net
-DOMAIN-SUFFIX,foxplus.com
+#USER-AGENT,FOXPlus*
+#DOMAIN-SUFFIX,akamaized.net
+#DOMAIN-SUFFIX,foxplus.com
 
 # AMC+
 DOMAIN-SUFFIX,amcn.com
