@@ -64,7 +64,7 @@ DOMAIN-SUFFIX,stream.ne.jp,FOD,StreamingJP.list
 DOMAIN,measure.ic.tver.jp,FOD,StreamingJP.list
 
 # > U-NEXT
-DOMAIN-SUFFIX,unext.jp,U-NEXT,StreamingJP.list
-DOMAIN-SUFFIX,nxtv.jp,U-NEXT,StreamingJP.list
-// DOMAIN,streamd01ca-nxtv-jp.akamaized.net,U-NEXT,StreamingJP.list
-DOMAIN,us-central1-u-next-apps.cloudfunctions.net,U-NEXT,StreamingJP.list
+DOMAIN-SUFFIX,unext.jp,StreamingJP.list
+DOMAIN-SUFFIX,nxtv.jp,StreamingJP.list
+// DOMAIN,streamd01ca-nxtv-jp.akamaized.net,StreamingJP.list
+DOMAIN,us-central1-u-next-apps.cloudfunctions.net,StreamingJP.list
