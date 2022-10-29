@@ -38,18 +38,18 @@ DOMAIN,edge.api.brightcove.com,StreamingJP.list
 ##
 DOMAIN-SUFFIX,tver.jp
 DOMAIN-SUFFIX,interactive-circle.jp
-DOMAIN-SUFFIX,brightcove.com
-DOMAIN-SUFFIX,prod.boltdns.net
+#DOMAIN-SUFFIX,brightcove.com
+#DOMAIN-SUFFIX,prod.boltdns.net
 ##
-DOMAIN-SUFFIX,reproio.com
-DOMAIN-SUFFIX,streaks.jp
-DOMAIN-SUFFIX,socdm.com
+#DOMAIN-SUFFIX,reproio.com
+#DOMAIN-SUFFIX,streaks.jp
+#DOMAIN-SUFFIX,socdm.com
 
 ##TVer要补充这几个规则
 
-DOMAIN-SUFFIX,reproio.com
-DOMAIN-SUFFIX,streaks.jp
-DOMAIN-SUFFIX,socdm.com
+#DOMAIN-SUFFIX,reproio.com
+#DOMAIN-SUFFIX,streaks.jp
+#DOMAIN-SUFFIX,socdm.com
 
 ##前面两条视频流量有需要可以分流出去, 我这能直连
 
@@ -64,7 +64,7 @@ DOMAIN-SUFFIX,stream.ne.jp,FOD,StreamingJP.list
 DOMAIN,measure.ic.tver.jp,FOD,StreamingJP.list
 
 # > U-NEXT
-DOMAIN-SUFFIX,unext.jp,U-NEXT,StreamingJP.list
-DOMAIN-SUFFIX,nxtv.jp,U-NEXT,StreamingJP.list
-// DOMAIN,streamd01ca-nxtv-jp.akamaized.net,U-NEXT,StreamingJP.list
-DOMAIN,us-central1-u-next-apps.cloudfunctions.net,U-NEXT,StreamingJP.list
+DOMAIN-SUFFIX,unext.jp,StreamingJP.list
+DOMAIN-SUFFIX,nxtv.jp,StreamingJP.list
+// DOMAIN,streamd01ca-nxtv-jp.akamaized.net,StreamingJP.list
+DOMAIN,us-central1-u-next-apps.cloudfunctions.net,StreamingJP.list
