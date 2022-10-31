@@ -1,0 +1,5 @@
+# > KKBOX
+USER-AGENT,*KKBOX,StreamingTW
+DOMAIN-SUFFIX,kkbox.com,StreamingTW
+DOMAIN-SUFFIX,kkbox.com.tw,StreamingTW
+DOMAIN-SUFFIX,kfs.io,StreamingTW
