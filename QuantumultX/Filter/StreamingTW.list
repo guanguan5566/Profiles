@@ -5,12 +5,6 @@ DOMAIN-SUFFIX,gamer.com.tw,StreamingTW
 DOMAIN,gamer-cds.cdn.hinet.net,StreamingTW
 DOMAIN,gamer2-cds.cdn.hinet.net,StreamingTW
 
-# > KKBOX
-USER-AGENT,*KKBOX,StreamingTW
-DOMAIN-SUFFIX,kkbox.com,StreamingTW
-DOMAIN-SUFFIX,kkbox.com.tw,StreamingTW
-DOMAIN-SUFFIX,kfs.io,StreamingTW
-
 # > KKTV
 USER-AGENT,KKTV*,StreamingTW
 USER-AGENT,com.kktv.ios.kktv*,StreamingTW
