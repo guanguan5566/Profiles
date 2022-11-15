@@ -1,35 +1,35 @@
 # > AbemaTV
-USER-AGENT,AbemaTV*,StreamingJP.list
-DOMAIN-SUFFIX,abema.io,StreamingJP.list
-DOMAIN-SUFFIX,abema.tv,StreamingJP.list
-DOMAIN-SUFFIX,ameba.jp,StreamingJP.list
-DOMAIN-SUFFIX,hayabusa.io,StreamingJP.list
-DOMAIN,abematv.akamaized.net
-DOMAIN,ds-vod-abematv.akamaized.net
-DOMAIN,linear-abematv.akamaized.net
-DOMAIN,ds-linear-abematv.akamaized.net
-DOMAIN-KEYWORD,abematv.akamaized.net,StreamingJP.list
+USER-AGENT,AbemaTV*,StreamingJP
+DOMAIN-SUFFIX,abema.io,StreamingJP
+DOMAIN-SUFFIX,abema.tv,StreamingJP
+DOMAIN-SUFFIX,ameba.jp,StreamingJP
+DOMAIN-SUFFIX,hayabusa.io,StreamingJP
+DOMAIN,abematv.akamaized.net,StreamingJP
+DOMAIN,ds-vod-abematv.akamaized.net,StreamingJP
+DOMAIN,linear-abematv.akamaized.net,StreamingJP
+DOMAIN,ds-linear-abematv.akamaized.net,StreamingJP
+DOMAIN-KEYWORD,abematv.akamaized.net,StreamingJP
 
 # > DMM
-DOMAIN-SUFFIX,dmm.co.jp,StreamingJP.list
-DOMAIN-SUFFIX,dmm.com,StreamingJP.list
-DOMAIN-SUFFIX,dmm-extension.com,StreamingJP.list
+DOMAIN-SUFFIX,dmm.co.jp,StreamingJP
+DOMAIN-SUFFIX,dmm.com,StreamingJP
+DOMAIN-SUFFIX,dmm-extension.com,StreamingJP
 
-# > Hulu / フールー,StreamingJP.list
-DOMAIN-SUFFIX,happyon.jp,StreamingJP.list
-DOMAIN-SUFFIX,hjholdings.jp,StreamingJP.list
-DOMAIN-SUFFIX,hulu.jp,StreamingJP.list
+# > Hulu / フールー,StreamingJP
+DOMAIN-SUFFIX,happyon.jp,StreamingJP
+DOMAIN-SUFFIX,hjholdings.jp,StreamingJP
+DOMAIN-SUFFIX,hulu.jp,StreamingJP
 
 # > niconico
-USER-AGENT,Niconico*,StreamingJP.list
-DOMAIN-SUFFIX,dmc.nico,StreamingJP.list
-DOMAIN-SUFFIX,nicovideo.jp,StreamingJP.list
-DOMAIN-SUFFIX,nimg.jp,StreamingJP.list
+USER-AGENT,Niconico*,StreamingJP
+DOMAIN-SUFFIX,dmc.nico,StreamingJP
+DOMAIN-SUFFIX,nicovideo.jp,StreamingJP
+DOMAIN-SUFFIX,nimg.jp,StreamingJP
 
 # > TVer
-USER-AGENT,TVer-Release*,StreamingJP.list
-DOMAIN-SUFFIX,tver.jp,StreamingJP.list
-DOMAIN,edge.api.brightcove.com,StreamingJP.list
+USER-AGENT,TVer-Release*,StreamingJP
+DOMAIN-SUFFIX,tver.jp,StreamingJP
+DOMAIN,edge.api.brightcove.com,StreamingJP
 
 
 #TVer
@@ -54,17 +54,17 @@ DOMAIN-SUFFIX,interactive-circle.jp
 ##前面两条视频流量有需要可以分流出去, 我这能直连
 
 # > Paravi
-USER-AGENT,Paravi*,Paravi,StreamingJP.list
-DOMAIN-SUFFIX,paravi.jp,Paravi,StreamingJP.list
+USER-AGENT,Paravi*,Paravi,StreamingJP
+DOMAIN-SUFFIX,paravi.jp,Paravi,StreamingJP
 
 # > FOD
-USER-AGENT,FOD*,FOD,StreamingJP.list
-DOMAIN-SUFFIX,fujitv.co.jp,FOD,StreamingJP.list
-DOMAIN-SUFFIX,stream.ne.jp,FOD,StreamingJP.list
-DOMAIN,measure.ic.tver.jp,FOD,StreamingJP.list
+USER-AGENT,FOD*,FOD,StreamingJP
+DOMAIN-SUFFIX,fujitv.co.jp,StreamingJP
+DOMAIN-SUFFIX,stream.ne.jp,StreamingJP
+DOMAIN,measure.ic.tver.jp,StreamingJP
 
 # > U-NEXT
-DOMAIN-SUFFIX,unext.jp,StreamingJP.list
-DOMAIN-SUFFIX,nxtv.jp,StreamingJP.list
-// DOMAIN,streamd01ca-nxtv-jp.akamaized.net,StreamingJP.list
-DOMAIN,us-central1-u-next-apps.cloudfunctions.net,StreamingJP.list
+DOMAIN-SUFFIX,unext.jp,StreamingJP
+DOMAIN-SUFFIX,nxtv.jp,StreamingJP
+// DOMAIN,streamd01ca-nxtv-jp.akamaized.net,StreamingJP
+DOMAIN,us-central1-u-next-apps.cloudfunctions.net,StreamingJP
