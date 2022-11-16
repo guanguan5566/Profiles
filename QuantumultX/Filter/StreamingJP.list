@@ -2,6 +2,7 @@
 USER-AGENT,AbemaTV*,StreamingJP
 DOMAIN-SUFFIX,abema.io,StreamingJP
 DOMAIN-SUFFIX,abema.tv,StreamingJP
+DOMAIN-SUFFIX,abema-tv.com,StreamingJP
 DOMAIN-SUFFIX,ameba.jp,StreamingJP
 DOMAIN-SUFFIX,hayabusa.io,StreamingJP
 DOMAIN,abematv.akamaized.net,StreamingJP
